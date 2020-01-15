@@ -580,11 +580,11 @@ body { margin: 0px; font-weight: 300; background: #333; }
 .mobile-footer-bar { position: fixed; right: 0px; bottom: 0px; height: 50px; width: 100%; background: #000; z-index: 999990; border-top: 1px solid #333; font-size: 0px; }
 .mobile-footer-bar a { width: 20%; display: inline-block; font-size: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-align: center; color: #ddd; text-decoration: none; font-weight: 400; padding-top: 32px; background-repeat: no-repeat; background-position: center 6px; }
  
-.mobile-footer-bar .sport { background-image: url(../icons/top-bar/sport.png); }
-.mobile-footer-bar .live { background-image: url(../icons/top-bar/live.png); }
-.mobile-footer-bar .scores { background-image: url(../icons/top-bar/scores.png); }
-.mobile-footer-bar .casino { background-image: url(../icons/top-bar/casino.png); }
-.mobile-footer-bar .account { background-image: url(../icons/top-bar/account.png); }
+.mobile-footer-bar .sport { background-image: url(./icons/sport.png); }
+.mobile-footer-bar .live { background-image: url(./icons/live.png); }
+.mobile-footer-bar .scores { background-image: url(./icons/scores.png); }
+.mobile-footer-bar .casino { background-image: url(./icons/casino.png); }
+.mobile-footer-bar .account { background-image: url(./icons/account.png); }
 
 .mobile-footer-bar .active { color: #333 !important; }
 
