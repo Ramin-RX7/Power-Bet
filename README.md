@@ -17,3 +17,4 @@ RIP Power Bet Web-Site (Beta)
 <blockquote>
 <p>(Just right click and choose TRANSLATE TO ENGLISH)</p>
 </blockquote>
+
